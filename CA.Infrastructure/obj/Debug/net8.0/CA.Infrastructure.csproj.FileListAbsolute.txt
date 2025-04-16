@@ -1,0 +1,15 @@
+/Users/dungviet/Project/CleanArchitecture/CA.Infrastructure/bin/Debug/net8.0/CA.Infrastructure.deps.json
+/Users/dungviet/Project/CleanArchitecture/CA.Infrastructure/bin/Debug/net8.0/CA.Infrastructure.dll
+/Users/dungviet/Project/CleanArchitecture/CA.Infrastructure/bin/Debug/net8.0/CA.Infrastructure.pdb
+/Users/dungviet/Project/CleanArchitecture/CA.Infrastructure/bin/Debug/net8.0/CA.Domain.dll
+/Users/dungviet/Project/CleanArchitecture/CA.Infrastructure/bin/Debug/net8.0/CA.Domain.pdb
+/Users/dungviet/Project/CleanArchitecture/CA.Infrastructure/obj/Debug/net8.0/CA.Infrastructure.csproj.AssemblyReference.cache
+/Users/dungviet/Project/CleanArchitecture/CA.Infrastructure/obj/Debug/net8.0/CA.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dungviet/Project/CleanArchitecture/CA.Infrastructure/obj/Debug/net8.0/CA.Infrastructure.AssemblyInfoInputs.cache
+/Users/dungviet/Project/CleanArchitecture/CA.Infrastructure/obj/Debug/net8.0/CA.Infrastructure.AssemblyInfo.cs
+/Users/dungviet/Project/CleanArchitecture/CA.Infrastructure/obj/Debug/net8.0/CA.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/dungviet/Project/CleanArchitecture/CA.Infrastructure/obj/Debug/net8.0/CA.Infra.8D61AF62.Up2Date
+/Users/dungviet/Project/CleanArchitecture/CA.Infrastructure/obj/Debug/net8.0/CA.Infrastructure.dll
+/Users/dungviet/Project/CleanArchitecture/CA.Infrastructure/obj/Debug/net8.0/refint/CA.Infrastructure.dll
+/Users/dungviet/Project/CleanArchitecture/CA.Infrastructure/obj/Debug/net8.0/CA.Infrastructure.pdb
+/Users/dungviet/Project/CleanArchitecture/CA.Infrastructure/obj/Debug/net8.0/ref/CA.Infrastructure.dll

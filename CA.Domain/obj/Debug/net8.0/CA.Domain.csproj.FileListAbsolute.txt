@@ -1,0 +1,11 @@
+/Users/dungviet/Project/CleanArchitecture/CA.Domain/bin/Debug/net8.0/CA.Domain.deps.json
+/Users/dungviet/Project/CleanArchitecture/CA.Domain/bin/Debug/net8.0/CA.Domain.dll
+/Users/dungviet/Project/CleanArchitecture/CA.Domain/bin/Debug/net8.0/CA.Domain.pdb
+/Users/dungviet/Project/CleanArchitecture/CA.Domain/obj/Debug/net8.0/CA.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dungviet/Project/CleanArchitecture/CA.Domain/obj/Debug/net8.0/CA.Domain.AssemblyInfoInputs.cache
+/Users/dungviet/Project/CleanArchitecture/CA.Domain/obj/Debug/net8.0/CA.Domain.AssemblyInfo.cs
+/Users/dungviet/Project/CleanArchitecture/CA.Domain/obj/Debug/net8.0/CA.Domain.csproj.CoreCompileInputs.cache
+/Users/dungviet/Project/CleanArchitecture/CA.Domain/obj/Debug/net8.0/CA.Domain.dll
+/Users/dungviet/Project/CleanArchitecture/CA.Domain/obj/Debug/net8.0/refint/CA.Domain.dll
+/Users/dungviet/Project/CleanArchitecture/CA.Domain/obj/Debug/net8.0/CA.Domain.pdb
+/Users/dungviet/Project/CleanArchitecture/CA.Domain/obj/Debug/net8.0/ref/CA.Domain.dll
