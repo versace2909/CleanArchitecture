@@ -13,6 +13,7 @@
 
     <ItemGroup>
       <ProjectReference Include="..\CA.Application\CA.Application.csproj" />
+      <ProjectReference Include="..\CA.Infrastructure.EmailService\CA.Infrastructure.EmailService.csproj" />
       <ProjectReference Include="..\CA.Infrastructure.MessageQueue.Redis\CA.Infrastructure.MessageQueue.Redis.csproj" />
     </ItemGroup>
 

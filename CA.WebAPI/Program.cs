@@ -1,5 +1,6 @@
 using CA.Application;
 using CA.Infrastructure;
+using CA.Infrastructure.EmailService;
 using CA.Infrastructure.MessageQueue.Redis;
 using CA.Infrastructure.MessageQueue.Redis.Implementations;
 
@@ -13,6 +14,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddInfrastructure(builder.Configuration);
 builder.Services.AddApplication();
+builder.Services.AddEmailService();
 builder.Services.AddRedisMessageQueue(builder.Configuration);
 builder.Services.AddHostedService<QueueProcessing>();
 var app = builder.Build();
