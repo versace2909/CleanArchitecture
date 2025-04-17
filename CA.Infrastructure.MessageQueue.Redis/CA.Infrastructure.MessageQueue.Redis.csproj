@@ -7,17 +7,12 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <PackageReference Include="StackExchange.Redis" Version="2.8.31" />
+        <PackageReference Include="StackExchange.Redis" Version="2.8.31" />
+        <PackageReference Include="Microsoft.Extensions.Hosting.Abstractions" Version="8.0.1" />
     </ItemGroup>
 
     <ItemGroup>
       <ProjectReference Include="..\CA.Infrastructure\CA.Infrastructure.csproj" />
-    </ItemGroup>
-
-    <ItemGroup>
-      <Reference Include="Microsoft.Extensions.Hosting.Abstractions">
-        <HintPath>..\..\..\..\..\usr\local\share\dotnet\x64\shared\Microsoft.AspNetCore.App\8.0.1\Microsoft.Extensions.Hosting.Abstractions.dll</HintPath>
-      </Reference>
     </ItemGroup>
 
 </Project>
